@@ -4,7 +4,8 @@
   "description": "EstateDirect",
   "main": "server/main.js",
   "scripts": {
-    "start": "nodemon --exec babel-node server/main.js"
+    "start": "node --exec babel-node server/main.js",
+    "dev": "nodemon --exec babel-node server/main.js"
   },
   "dependencies": {
     "babel-cli": "^6.10.1",

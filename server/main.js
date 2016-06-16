@@ -17,6 +17,7 @@ import router from './router';
 
 // Global ROOT_DIR
 global.ROOT_DIR = path.resolve(__dirname, '../');
+global.API_DIR = path.resolve(__dirname, '/api');
 
 // Loading config from .env
 const ENV = require('dotenv').load({
