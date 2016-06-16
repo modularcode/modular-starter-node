@@ -14,9 +14,9 @@
 - Server Side
   - NodeJs
   - Express
+  - SequelizeJS ORM
   - REST api
   - JWT
-  - SequelizeJS ORM
 - Client Side
   - Handlebars
   - SASS
