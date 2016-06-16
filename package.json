@@ -1,7 +1,7 @@
 {
-  "name": "EstateDirect",
+  "name": "modular-node-starter",
   "version": "0.0.1",
-  "description": "EstateDirect",
+  "description": "Full-stack ES6 application starter | Server: NodeJs / Express / REST api / Sequelize | Client: Handlebars / SASS / WebPack",
   "scripts": {
     "start": "concurrently \"npm run build\" \"npm run server\"",
     "build": "webpack --config build/webpack.config.js",
