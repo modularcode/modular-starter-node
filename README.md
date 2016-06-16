@@ -1,4 +1,4 @@
-# Modular Node Starter (in progress)
+# Modular NodeJs Starter (in progress)
 
 > The most common web app development approach had become **Server API** and **Client App** separation. 
 > Sometimes this approach has issues with **Search Engine Optimization** (SEO), 
