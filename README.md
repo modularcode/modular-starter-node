@@ -1,8 +1,10 @@
 # Modular Node Starter
 
-> Web development has changed a lot latest year. The most common approach had become Server API and Client App separation. 
-> Sometimes this approach has issues with SEO, and we need more traditional server-side rendering with additional REST api.
-> That's why we built this well-structured and organized simple starter :)
+> The most common web app development approach had become **Server API** and **Client App** separation. 
+> Sometimes this approach has issues with **Search Engine Optimization** (SEO), 
+> and more traditional **server-side rendering** with additional **REST api** is required.
+>
+> That's why we built this beautiful starter :)
 
 ## Features
 
