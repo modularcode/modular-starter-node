@@ -13,5 +13,5 @@ export default function(app) {
   app.use(bodyParser.json());
 
   // Static server
-  app.use( express.static(ROOT_DIR + 'public') );
+  app.use( express.static(PUBLIC_DIR) );
 };

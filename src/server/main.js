@@ -16,7 +16,10 @@ import router from './router';
 ****************************************/
 
 // Global ROOT_DIR
-global.ROOT_DIR = path.resolve(__dirname, '../');
+global.ROOT_DIR = path.resolve(__dirname, '../../');
+global.CLIENT_DIR = path.resolve(__dirname, '../client');
+global.PUBLIC_DIR = path.resolve(__dirname, '../../public');
+global.SERVER_DIR = path.resolve(__dirname);
 global.API_DIR = path.resolve(__dirname, '/api');
 
 // Loading config from .env

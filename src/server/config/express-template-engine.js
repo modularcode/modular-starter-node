@@ -8,8 +8,6 @@ import glob from 'glob';
 
 export default function(app) {
 
-  const CLIENT_DIR = path.resolve(ROOT_DIR, 'client');
-
   // Handlebars helpers
   const helpers = {};
 
