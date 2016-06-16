@@ -31,7 +31,7 @@ export default function(app) {
   var appRouter = express.Router();
 
   // load all APP routes Dynamically
-  glob.sync(ROOT_DIR + '/client/**/*-routes.js').forEach(function(name) {
+  glob.sync(__dirname + '/app/**/*-routes.js').forEach(function(name) {
     require(name)(app, appRouter);
   });
 

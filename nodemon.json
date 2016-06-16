@@ -1,7 +1,5 @@
 {
   "watch": [
-    "server/**/*.js",
-    "client/**/*-controller.js",
-    "client/**/*-routes.js"
+    "server/**/*.js"
   ]
 }
