@@ -15,8 +15,8 @@
   - NodeJs
   - Express
   - REST api
-  - SequelizeJS
-  - ES6
+  - JWT
+  - SequelizeJS ORM
 - Client Side
   - Handlebars
   - SASS
