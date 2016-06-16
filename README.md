@@ -4,7 +4,7 @@
 > Sometimes this approach has issues with **Search Engine Optimization** (SEO), 
 > and more traditional **server-side rendering** with additional **REST api** is required.
 >
-> That's why we built this beautiful starter :)
+> That's why we've built this beautiful starter :)
 
 ## Features
 
