@@ -1,5 +1,7 @@
 {
-  "ignore": [
-    "public/**/*"
+  "watch": [
+    "server/**/*.js",
+    "client/**/*-controller.js",
+    "client/**/*-routes.js"
   ]
 }

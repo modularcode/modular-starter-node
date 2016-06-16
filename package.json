@@ -4,7 +4,7 @@
   "description": "EstateDirect",
   "main": "server/main.js",
   "scripts": {
-    "start": "node --exec babel-node server/main.js",
+    "start": "babel-node server/main.js",
     "dev": "nodemon --exec babel-node server/main.js"
   },
   "dependencies": {
