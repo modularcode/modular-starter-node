@@ -24,7 +24,7 @@
     "lodash": "^4.13.1",
     "pg": "^5.1.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.23.3",
+    "sequelize": "^6.3.5",
     "superagent": "^2.0.0"
   },
   "devDependencies": {
